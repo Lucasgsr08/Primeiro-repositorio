@@ -11,8 +11,7 @@ ceps = [
     "70040-010",  # Brasília - DF
     "80010-000",  # Curitiba - PR
     "40020-000"   # Salvador - BA
-    "74820-110"   # Goiânia - GO
-    "70040-010"   # Brasília - DF
+  
     
 ]
 
