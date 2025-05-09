@@ -1,0 +1,80 @@
+[
+    {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "unidade": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "30130-010",
+        "logradouro": "Praça Sete de Setembro",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Belo Horizonte",
+        "uf": "MG",
+        "estado": "Minas Gerais",
+        "regiao": "Sudeste",
+        "ibge": "3106200",
+        "gia": "",
+        "ddd": "31",
+        "siafi": "4123"
+    },
+    {
+        "cep": "20040-010",
+        "logradouro": "Avenida Presidente Vargas",
+        "complemento": "até 309 - lado ímpar",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    },
+    {
+        "cep": "70040-010",
+        "logradouro": "Quadra SBN Quadra 1",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Asa Norte",
+        "localidade": "Brasília",
+        "uf": "DF",
+        "estado": "Distrito Federal",
+        "regiao": "Centro-Oeste",
+        "ibge": "5300108",
+        "gia": "",
+        "ddd": "61",
+        "siafi": "9701"
+    },
+    {
+        "cep": "80010-000",
+        "logradouro": "Rua José Loureiro",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535"
+    },
+    {
+        "erro": "true"
+    }
+]
